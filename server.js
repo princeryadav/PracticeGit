@@ -1,5 +1,5 @@
 /**
- * This is new File adde for test
+ * This is new File added for test
  */
 
 const foo = () => console.log("First");
